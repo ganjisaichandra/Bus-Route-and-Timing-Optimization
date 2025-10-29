@@ -102,3 +102,26 @@ the data insights.
 ● Pie charts for crowding distribution (Low, Medium, High). 
 ● Line chart for daily performance trends. 
 ● Pivot tables for on-time performance by route and time window 
+9. Recommendations: 
+● Adjust Route D’s departure time 10 minutes earlier to reduce morning congestion. 
+● Add one additional bus on Route C to handle excess crowding. 
+● Combine Route B and E during off-peak hours for better resource utilization. 
+● Introduce a live GPS tracking system for real-time delay alerts. 
+10. Deliverables: 
+● Cleaned the Excel dataset with 100 records. 
+● Analytical dashboard displaying key trends and KPIs. 
+● AI-based recommendation report for timing and route optimization. 
+● Documentation summarizing the process, analysis, and future scope. 
+11. Future Scope: 
+● Integration with real-time GPS and IoT sensors for dynamic scheduling. 
+● Development of a mobile application for students to track bus arrivals. 
+● Machine learning-based prediction models to forecast crowding and delays. 
+● Expansion of the dataset to include multiple institutions and time periods for better accuracy. 
+12. Conclusion: 
+This project demonstrates the power of data analytics in optimizing transportation 
+systems. Through the analysis of simple bus operation data, we identified inefficiencies, 
+proposed actionable improvements, and built a framework for AI-driven route optimization. 
+Implementing these recommendations can lead to improved punctuality, reduced crowding, and 
+enhanced commuter satisfaction. 
+Prepared by: G. S. V. Sai Chandra 
+Email: saichandra38ganji@gmail.com 
